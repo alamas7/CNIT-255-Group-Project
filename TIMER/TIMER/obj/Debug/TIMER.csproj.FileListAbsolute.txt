@@ -1,0 +1,35 @@
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\bin\Debug\TIMER.exe.config
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\bin\Debug\TIMER.exe
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\bin\Debug\TIMER.pdb
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\MainWindow.g.cs
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\App.g.cs
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER_MarkupCompile.cache
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER_MarkupCompile.lref
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\MainWindow.baml
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.g.resources
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.Properties.Resources.resources
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.csproj.GenerateResource.Cache
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.exe
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.pdb
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TIMER.csprojResolveAssemblyReference.cache
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TimerItem.g.cs
+C:\Users\alexlamas\Documents\C#\Timer\TIMER\TIMER\obj\Debug\TimerItem.baml
+E:\Purdue\2015 fall semester\CNIT 255\Team Project\Timer\TIMER\TIMER\bin\Debug\TIMER.exe.config
+E:\Purdue\2015 fall semester\CNIT 255\Team Project\Timer\TIMER\TIMER\obj\Debug\TIMER.exe
+E:\Purdue\2015 fall semester\CNIT 255\Team Project\Timer\TIMER\TIMER\obj\Debug\TIMER.pdb
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\bin\Debug\TIMER.exe.config
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.exe
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.pdb
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\bin\Debug\TIMER.exe
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\bin\Debug\TIMER.pdb
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.csprojResolveAssemblyReference.cache
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\MainWindow.g.cs
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TimerItem.g.cs
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\App.g.cs
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER_MarkupCompile.cache
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER_MarkupCompile.lref
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\MainWindow.baml
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TimerItem.baml
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.g.resources
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.Properties.Resources.resources
+C:\Users\alexlamas\Documents\GitHub\CNIT-255-Group-Project\TIMER\TIMER\obj\Debug\TIMER.csproj.GenerateResource.Cache
